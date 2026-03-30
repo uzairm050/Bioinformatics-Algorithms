@@ -1,10 +1,5 @@
 # 🧬 Bioinformatics Algorithms — A Learning Journey
 
-**Author:** Uzair Malik  
-**Program:** MS Bioinformatics, 2nd Semester — NUST, Pakistan  
-**Language:** Python 🐍  
-**Reference Repo:** [mhtjsh/Bioinformatics_Algorithms](https://github.com/mhtjsh/Bioinformatics_Algorithms)
-
 ---
 
 ## 📌 About This Repository
@@ -126,4 +121,4 @@ Building on this foundation, I am currently working on:
 
 ---
 
-*Made with curiosity, confusion, and a lot of `print()` statements 🧬*
+
