@@ -6,7 +6,6 @@
 
 This repository documents my personal, hands-on journey through core bioinformatics algorithms implemented in Python. Structured across **four progressive seasons**, it starts from the most basic DNA pattern operations and builds all the way up to probabilistic motif-finding algorithms used in real computational biology research.
 
-My background is in Biotechnology (BSc, University of Peshawar), and I am currently pursuing my MS in Bioinformatics at NUST. Working through these algorithms helped me bridge the gap between my biological knowledge and computational thinking — understanding not just *what* tools like BLAST or MEME do, but *how* and *why* they work.
 
 > **This is not just a code dump — each season contains detailed explanations, biological context, and honest reflections on what I learned and struggled with.**
 
